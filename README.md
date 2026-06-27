@@ -1,2 +1,37 @@
-# Hotel-Executive-Performance-Dashboard
-This project is an interactive Power BI dashboard designed to analyze hotel booking performance and support executive decision-making. The report provides insights into revenue, booking trends, room performance, guest markets, and booking channels through dynamic visualizations and business-focused KPIs.
+# Hotel Executive Performance Dashboard
+
+## Project Overview
+
+Interactive Power BI dashboard developed to analyze hotel performance using booking data.
+
+## Tools
+
+- Power BI Desktop
+- Power Query
+- DAX
+- Excel
+
+## KPIs
+
+- Total Revenue
+- Total Bookings
+- ADR
+- Revenue per Guest
+- Average Stay
+- Average Rating
+
+## Features
+
+- Interactive slicers
+- Dynamic titles
+- Report page tooltips
+- Drill down analysis
+- Top N filtering
+- Conditional formatting
+
+## Business Insights
+
+- Suite rooms generated the highest revenue.
+- Corporate bookings outperformed other booking channels.
+- France represented the strongest source market.
+- Average stay remained close to four nights.
